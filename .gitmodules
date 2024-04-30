@@ -1,3 +1,6 @@
 [submodule "GNL"]
 	path = GNL
 	url = git@github.com:Kenobiiii/get_next_line.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:Kenobiiii/Pipex.git
