@@ -1,0 +1,3 @@
+[submodule "GNL"]
+	path = GNL
+	url = git@github.com:Kenobiiii/get_next_line.git
