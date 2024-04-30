@@ -4,3 +4,9 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:Kenobiiii/Pipex.git
+[submodule "Libft"]
+	path = Libft
+	url = git@github.com:Kenobiiii/libft.git
+[submodule "Printf"]
+	path = Printf
+	url = git@github.com:Kenobiiii/printf.git
