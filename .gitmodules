@@ -10,3 +10,6 @@
 [submodule "Printf"]
 	path = Printf
 	url = git@github.com:Kenobiiii/printf.git
+[submodule "So_long"]
+	path = So_long
+	url = git@github.com:Kenobiiii/so_long.git
