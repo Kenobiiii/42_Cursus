@@ -14,7 +14,7 @@
 |**100**/100|
 |                 |
 ![born2beroot](./badges/born2beroote.png)
-[Born2beroot](https://github.com/Kenobiiii/born2beroot.git)
+[Born2beroot]
 |**100**/100|
 |                 |
 ![GNL](./badges/get_next_linee.png)
