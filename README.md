@@ -18,7 +18,7 @@
 |**100**/100|
 |                 |
 ![GNL](./badges/get_next_linee.png)
-[Get_next_line](https://github.com/Kenobiiii/get_lext_line.git)
+[Get_next_line](https://github.com/Kenobiiii/get_next_line.git)
 |**112**/100|
 |                 |
 ![Pipex](./badges/pipexe.png)
