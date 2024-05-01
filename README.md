@@ -7,7 +7,9 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 20%;">
-        <img src="./badges/libftm.png" alt="Libft">
+        <a href="https://github.com/Kenobiiii/libft.git">
+            <img src="./badges/libftm.png" alt="Libft">
+        </a>
         <p>[Libft](https://github.com/Kenobiiii/libft.git)</p>
         <p>|**125**/100|</p>
     </div>
