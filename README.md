@@ -27,4 +27,8 @@ Born2beroot
 |                 |
 ![So_long](./badges/so_longe.png)
 [So_long](https://github.com/Kenobiiii/so_long.git)
+|**100**/100|
+|                 |
+![push_swap](./badges/push_swape.png)
+[push_swap](https://github.com/Kenobiiii/Push_swap.git)
 |**-**/100|
