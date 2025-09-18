@@ -9,7 +9,7 @@
 [Libft](https://github.com/Kenobiiii/libft.git)
 |**125**/100|
 |                 |                     |                 |
-![printf](./badges/ft_printfe.png) | ![born2beroot](./badges/born2beroote.png)
+![printf](./badges/ft_printfe.png) | ![born2beroot](./badges/born2beroote.png) |
 [Printf](https://github.com/Kenobiiii/printf.git) Born2beroot
 |**100**/100|                           |**100**/100|
 
