@@ -79,12 +79,12 @@ Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proye
     <tr>
       <td align="center">
         <img src="./badges/project1.png" alt="project1 badge" width="100px"><br>
-        <a href="#">Philosophers</a><br>
+        <a href="https://github.com/Kenobiiii/Philosopher">Philosophers</a><br>
         <a><b>100</b>/100</a>
       </td>
       <td align="center">
         <img src="./badges/project2.png" alt="project2 badge" width="100px"><br>
-        <a href="#">Proyecto 2</a><br>
+        <a href="https://github.com/Kenobiiii/Minishell">Minishell</a><br>
         <a><b>95</b>/100</a>
       </td>
     </tr>
