@@ -2,7 +2,7 @@
 
 <p>Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proyectos que vaya completando</p>
 
-<p> align="center"> | Projectos       |</p>
+| Projectos       |
 | :--------------:|
 |                 |
 ![libft-bonus](./badges/libftm.png)
@@ -32,3 +32,4 @@ Born2beroot
 ![push_swap](./badges/push_swape.png)
 [push_swap](https://github.com/Kenobiiii/Push_swap.git)
 |**-**/100|
+
