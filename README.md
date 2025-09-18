@@ -108,6 +108,11 @@ Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proye
         <a href="#">Cub3D</a><br>
         <a><b>*</b>/100</a>
       </td>
+      <td align="center">
+        <img src="./badges/netpractice.png" alt="project3 badge" width="100px"><br>
+        <a>NetPractice</a><br>
+        <a><b>100</b>/100</a>
+      </td>
     </tr>
   </table>
 </div>
