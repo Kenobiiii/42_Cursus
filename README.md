@@ -2,7 +2,7 @@
 
 <p>Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proyectos que vaya completando</p>
 
-<p> align="center">| Projectos       |</p>
+<p> align="center"> | Projectos       |</p>
 | :--------------:|
 |                 |
 ![libft-bonus](./badges/libftm.png)
