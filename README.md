@@ -12,7 +12,7 @@ Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proye
       <td align="center">
         <img src="./badges/libftm.png" alt="libft badge" width="100px"><br>
         <a href="https://github.com/Kenobiiii/libft.git">Libft</a><br>
-        <a href="https://github.com/Kenobiiii/libft.git">**125**/100</a>
+        <a>**125**/100</a>
       </td>
     </tr>
   </table>
