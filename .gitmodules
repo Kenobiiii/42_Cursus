@@ -16,3 +16,18 @@
 [submodule "Push_swap"]
 	path = Push_swap
 	url = git@github.com:Kenobiiii/Push_swap.git
+[submodule "Minishell"]
+	path = Minishell
+	url = git@github.com:Kenobiiii/Minishell.git
+[submodule "Cub3D"]
+	path = Cub3D
+	url = git@github.com:Kenobiiii/Cub3D.git
+[submodule "Cpp"]
+	path = Cpp
+	url = git@github.com:Kenobiiii/cpp.git
+[submodule "Inception"]
+	path = Inception
+	url = git@github.com:Kenobiiii/inception.git
+[submodule "Ft_irc"]
+	path = Ft_irc
+	url = git@github.com:Kenobiiii/ft_irc.git
