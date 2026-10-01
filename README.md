@@ -100,12 +100,12 @@ Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proye
     <tr>
       <td align="center">
         <img src="./badges/cpp.png" alt="project3 badge" width="100px"><br>
-        <a href="git@github.com:Kenobiiii/cpp.git">CPP 00-04</a><br>
+        <a href="https://github.com:Kenobiiii/cpp.git">CPP 00-04</a><br>
         <a><b>100</b>/100</a>
       </td>
       <td align="center">
         <img src="./badges/cub3D.png" alt="project4 badge" width="100px"><br>
-        <a href="git@github.com:Kenobiiii/Cub3D.git">Cub3D</a><br>
+        <a href="https://github.com:Kenobiiii/Cub3D.git">Cub3D</a><br>
         <a><b>103</b>/100</a>
       </td>
       <td align="center">
@@ -125,17 +125,17 @@ Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proye
     <tr>
       <td align="center">
         <img src="./badges/cpp.png" alt="project3 badge" width="100px"><br>
-        <a href="git@github.com:Kenobiiii/cpp.git">CPP 05-09</a><br>
+        <a href="https://github.com:Kenobiiii/cpp.git">CPP 05-09</a><br>
         <a><b>100</b>/100</a>
       </td>
       <td align="center">
         <img src="./badges/inceptione.png" alt="project4 badge" width="100px"><br>
-        <a href="git@github.com:Kenobiiii/inception.git">Inception</a><br>
+        <a href="https://github.com:Kenobiiii/inception.git">Inception</a><br>
         <a><b>100</b>/100</a>
       </td>
       <td align="center">
         <img src="./badges/ft_irce.png" alt="project3 badge" width="100px"><br>
-        <a href="git@github.com:Kenobiiii/ft_irc.git">ft_irc</a><br>
+        <a href="https://github.com:Kenobiiii/ft_irc.git">ft_irc</a><br>
         <a><b>99</b>/100</a>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Bienvenido a mi repositorio de Campus 42 Málaga, aquí se suben todos los proye
     <tr>
       <td align="center">
         <img src="./badges/ft_transcendencem.png" alt="project3 badge" width="100px"><br>
-        <a href="#">ft_transcendece</a><br>
+        <a>ft_transcendece</a><br>
         <a><b>125</b>/100</a>
       </td>
     </tr>
