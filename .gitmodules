@@ -13,6 +13,9 @@
 [submodule "So_long"]
 	path = So_long
 	url = git@github.com:Kenobiiii/So_long.git
+[submodule "Philosopher"]
+	path = Philosopher
+	url = git@github.com:Kenobiiii/Philosopher.git
 [submodule "Push_swap"]
 	path = Push_swap
 	url = git@github.com:Kenobiiii/Push_swap.git
